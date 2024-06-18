@@ -1,10 +1,11 @@
 {
-    
+
     "name": "timboard",
     "manufacturer": "Timba_XD",
     "vendorId": "0x444D",
     "productId": "0x3436",
     "matrix": {"rows": 12, "cols":6},
+    #include "keyboards/ergohaven/vial_custom_keycodes.json"
     "layouts": {
         "keymap": [
   [
